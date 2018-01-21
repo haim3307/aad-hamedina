@@ -4,7 +4,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="pre" value="echo '&lt;pre&gt;';&#10;$END$&#10;echo '&lt;/pre&gt;';" description="" toReformat="false" toShortenFQNames="true">
+  <template name="pre" value="echo '&lt;pre style=&quot;direction: ltr;&quot;&gt;';&#10;$END$&#10;echo '&lt;/pre&gt;';" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
