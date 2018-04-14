@@ -49,10 +49,12 @@
     <library name="flickity.pkgd" type="javaScript">
       <properties>
         <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_flickity@2.1.1_dist_flickity.pkgd.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_flickity@2_dist_flickity.pkgd.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_flickity@2.1.1_dist_flickity.pkgd.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_flickity@2_dist_flickity.pkgd.js" />
       </CLASSES>
       <SOURCES />
