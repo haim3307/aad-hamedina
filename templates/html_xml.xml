@@ -1,0 +1,7 @@
+<templateSet group="html/xml">
+  <template name="appcss" value="    &lt;link rel=&quot;stylesheet&quot; href=&quot;{{asset('css/app.min.css')}}&quot;&gt;&#10;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
